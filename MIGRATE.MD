@@ -52,7 +52,7 @@ Tooth require:
 
 Steps to replace:
 * Create a directory and copy .aia into that folder: eg: c:\migrate\M4L8_PA2_LeanbotAI.aia
-* Download new bloetooth extension from mit app inventor [bluetooth extension](https://iot.appinventor.mit.edu/assets/resources/edu.mit.appinventor.ble-20240822.aix) and save it to another folder: eg: c:\blue
+* Download new bluetooth extension from mit app inventor [bluetooth extension](https://iot.appinventor.mit.edu/assets/resources/edu.mit.appinventor.ble-20240822.aix) and save it to another folder: eg: c:\blue
 * Open double commander, on the left panel open directory contain your app, on the right panel open directory contain bluetooth extension
 
 ![mig1.png](images/mig1.png)
