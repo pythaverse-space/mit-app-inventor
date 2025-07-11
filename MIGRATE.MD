@@ -4,7 +4,8 @@
 * All application created before Jul/10/2025 which use `AskForPermission` block.
 * All application use `bluetooth` component
 
-All app permission used in app need to be upgrade to new version
+All app permission used in app need to be upgrade to new version.
+
 Old style: using text to grant permission to app
 ![perm.png](images/perm.png)
 
