@@ -7,9 +7,11 @@
 All app permission used in app need to be upgrade to new version. if you dont, you will see error 908 on the screen, which is wrong permitsion.
 
 Old style: using text to grant permission to app
+
 ![perm.png](images/perm.png)
 
 New Style: use dropdown box to selection permission
+
 ![perm-new.png](images/perm-new.png)
 
 How to migrate: remove old blockly grant permission, then click to `Screen` sidebar and select block `AskForPermission` and fill in permission 
