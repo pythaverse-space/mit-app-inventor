@@ -26,7 +26,7 @@ To grant bluetooth permission to device you must grant 3 permitssion as bellow:
 These are two method to upgrade old application to new version
 ### Method 1: 
 
-Replace old bluetooth tooth module directly from ui design in pythaverse app maker web.
+Replace old bluetooth module directly from ui design in pythaverse app maker web.
 
 Steps to replace:
 * Open application in app inventor
