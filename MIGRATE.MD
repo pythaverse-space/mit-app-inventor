@@ -22,6 +22,7 @@ How to migrate: remove old blockly grant permission, then click to `Screen` side
 ### NOTE: 
 * Grant permission for bluetooth: the new version improvement comparative with more devices but there is a small changed.
 To grant bluetooth permission to device you must grant 3 permitssion as bellow:
+
 ![perm-blue.png](images/perm-blue.png)
 
 
