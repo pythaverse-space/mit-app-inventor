@@ -15,6 +15,7 @@ New Style: use dropdown box to selection permission
 ![perm-new.png](images/perm-new.png)
 
 How to migrate: remove old blockly grant permission, then click to `Screen` sidebar and select block `AskForPermission` and fill in permission 
+
 ![grant-new.png](images/grant-new.png)
 
 
