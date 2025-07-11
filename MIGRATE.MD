@@ -27,6 +27,7 @@ These are two method to upgrade old application to new version
 ### Method 1: 
 
 Replace old bluetooth tooth module directly from ui design in pythaverse app maker web.
+
 Steps to replace:
 * Open application in app inventor
 * Download new bloetooth extension from mit app inventor [bluetooth extension](https://iot.appinventor.mit.edu/assets/resources/edu.mit.appinventor.ble-20240822.aix)
@@ -39,6 +40,7 @@ Note: with this method, you must rewrite from scratch every blockly blocks relat
 ### Method 2:
 
 Replace old bluetooth module by direct modify .aia file.
+
 Tooth require:
 * double commander: download from here:
   * window user: https://sourceforge.net/projects/doublecmd/files/DC%20for%20Windows%2064%20bit/Double%20Commander%201.1.26/doublecmd-1.1.26.x86_64-win64.exe/download
