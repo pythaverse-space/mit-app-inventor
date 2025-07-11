@@ -27,7 +27,7 @@ To grant bluetooth permission to device you must grant 3 permitssion as bellow:
 
 
 ## Migrate application use bluetooth component
-These are two method to upgrade old application to new version
+These are two methods to upgrade old application to newer version
 ### Method 1: 
 
 Replace old bluetooth module directly from ui design in pythaverse app maker web.
