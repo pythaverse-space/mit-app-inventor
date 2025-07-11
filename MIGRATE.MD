@@ -47,8 +47,8 @@ Replace old bluetooth module by direct modify .aia file.
 
 Tools require:
 * double commander: download from here:
-  * window user: https://sourceforge.net/projects/doublecmd/files/DC%20for%20Windows%2064%20bit/Double%20Commander%201.1.26/doublecmd-1.1.26.x86_64-win64.exe/download
-  * linux user: https://download.opensuse.org/repositories/home:/Alexx2000/AppImage/doublecmd-gtk-latest-x86_64.AppImage
+  * window users: https://sourceforge.net/projects/doublecmd/files/DC%20for%20Windows%2064%20bit/Double%20Commander%201.1.26/doublecmd-1.1.26.x86_64-win64.exe/download
+  * linux users: https://download.opensuse.org/repositories/home:/Alexx2000/AppImage/doublecmd-gtk-latest-x86_64.AppImage
 
 Steps to replace:
 * Create a directory and copy .aia into that folder: eg: c:\migrate\M4L8_PA2_LeanbotAI.aia
